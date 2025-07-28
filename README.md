@@ -42,6 +42,11 @@ This is a Streamlit-based web application that predicts a student's chance of ad
 - Enter custom values to predict an individual student's admission chance
 
 ---
+## 🌐 Live App
+
+You can try the deployed Streamlit app here:  
+🔗 [UCLA Admission Predictor](https://uclaadmissionpredictor-russel.streamlit.app/)
+
 
 ## 🛠 How to Run the App Locally
 
